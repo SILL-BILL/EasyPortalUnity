@@ -938,7 +938,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4898455018971426, guid: fd8a40d82e2444576bbf4e0aafa2e6b9, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 7.51
+      value: 6.5
       objectReference: {fileID: 0}
     - target: {fileID: 4898455018971426, guid: fd8a40d82e2444576bbf4e0aafa2e6b9, type: 2}
       propertyPath: m_LocalPosition.z
@@ -972,15 +972,6 @@ Prefab:
     - target: {fileID: 1937492580031548, guid: fd8a40d82e2444576bbf4e0aafa2e6b9, type: 2}
       propertyPath: m_Name
       value: PortalA
-      objectReference: {fileID: 0}
-    - target: {fileID: 114643301912626154, guid: fd8a40d82e2444576bbf4e0aafa2e6b9,
-        type: 2}
-      propertyPath: m_PortalId
-      value: A
-      objectReference: {fileID: 0}
-    - target: {fileID: 4898455018971426, guid: fd8a40d82e2444576bbf4e0aafa2e6b9, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fd8a40d82e2444576bbf4e0aafa2e6b9, type: 2}
